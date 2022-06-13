@@ -1,0 +1,2 @@
+Binary Search :hhttps://colab.research.google.com/drive/1NhTHZ286SDtqAXolcsNnV39fI1mwfwzc?usp=sharing
+Sequential Search : https://colab.research.google.com/drive/1uIBw-fxl64bbWf_b30UdjALCTiilLD5R?usp=sharing
