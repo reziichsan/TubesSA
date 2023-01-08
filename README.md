@@ -1,5 +1,5 @@
-# TubesSA2022
-Tubes Strategi Algoritma 2022 - Search
+# TubesSA
+Tubes Strategi Algoritma  - Search
 (Sequential Search & Binary Search)
 
 -FAHRUR ROZI SYARBINI(1301164213)
